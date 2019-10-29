@@ -1,0 +1,7 @@
+{
+  "name": "hellvetica",
+  "version": "1.0.0",
+  "main": "inject.js",
+  "author": "David Sharp <hello@davidsharp.codes>",
+  "license": "MIT"
+}
