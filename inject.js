@@ -8,9 +8,6 @@ var rule = `@font-face {
   src: url("${hellvetica}") format("TrueType");
 }`
 
-// Create our shared stylesheet:
 const sheet = new CSSStyleSheet();
 sheet.replaceSync(rule);
-
-// Apply the stylesheet to a document:
 document.adoptedStyleSheets = [sheet];

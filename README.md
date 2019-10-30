@@ -1,6 +1,6 @@
-# HELLVETICA – Kern in Hell
+# HELLVETICA – Kern in Hell 😈🔥
 
-This is a WIP Chrome extension that swaps Helvetica for Hellvetica
+This is a simple little Chrome extension that swaps Helvetica for Hellvetica
 
 ### To use:
-If you want to give it a go, pull the repo, open `chrome://extensions` and then `Load unpacked extension...`
+If you want to give it a go, clone the repo or download the zip, open `chrome://extensions`, turn on developer mode and then `Load unpacked extension...`
