@@ -6,6 +6,10 @@ var rule = `@font-face {
 @font-face {
   font-family: "Hellvetica";
   src: url("${hellvetica}") format("TrueType");
+}
+@font-face {
+  font-family: "Helvetica Neue";
+  src: url("${hellvetica}") format("TrueType");
 }`
 
 const sheet = new CSSStyleSheet();
