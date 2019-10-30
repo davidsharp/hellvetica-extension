@@ -10,7 +10,8 @@
 
   "content_scripts":[{
     "matches":["http://*/*","https://*/*"],
+    "permissions": ["activeTab"],
     "js":["inject.js"]
   }],
-  "permissions": ["activeTab"]
+  "permissions": []
 }
