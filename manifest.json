@@ -4,6 +4,8 @@
   "name": "Hellvetica",
   "description": "Kern in Hell",
   "version": "6.6.6",
+  "author": "David Sharp",
+  "homepage_url": "https://hellveticafont.com/",
   "icons": { "128": "icon128.png" },
 
   "content_scripts":[{
